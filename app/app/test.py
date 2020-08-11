@@ -10,3 +10,6 @@ class CalcTest(TestCase):
 
     def test_subtract_numbers(self):
         self.assertEqual(subtract(5,11),6)
+        
+    def test_multiply_numbers(self):
+        self.assertEqual(subtract(5,11),55)
