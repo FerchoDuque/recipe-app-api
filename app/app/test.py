@@ -12,4 +12,4 @@ class CalcTest(TestCase):
         self.assertEqual(subtract(5,11),6)
         
     def test_multiply_numbers(self):
-        self.assertEqual(subtract(5,11),55)
+        self.assertEqual(multiply(5,11),55)
