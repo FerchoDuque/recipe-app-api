@@ -1,6 +1,6 @@
 from django.test import TestCase
 
-from app.cacl import add, subtract
+from app.cacl import add, subtract, multiply
 
 class CalcTest(TestCase):
 
